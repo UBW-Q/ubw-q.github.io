@@ -1,17 +1,17 @@
 ### Background
-Higher Education
+## Higher Education
 
-B.Sc. Mathematics, Peking University (China), awarded July 2008.
+B.Sc. Mathematics, **Peking University** (China), awarded July 2008.
 
-Ph.D. Mathematics, University of Bath (UK), started Oct. 2008, defended Nov.2011.
+Ph.D. Mathematics, **University of Bath** (UK), started Oct. 2008, defended Nov.2011.
 
-Dissertation Title: Exchange graphs and stability conditions for quivers. 
+Dissertation Title: *Exchange graphs and stability conditions for quivers.* 
 
-Supervisor: Professor Alastair King
+Supervisor: Professor **Alastair King**
 
 
 
-Working Experience
+## Working Experience
 
 Postdoc in Université de Sherbrooke and Bishop's University, Aug. to Dec. 2012
 
@@ -21,7 +21,7 @@ Research Assistant Professor in Chinese University of Hong Kong (CUHK), July 201
 
 
 
-Award
+##vAward
 
 ICRA Award 2016 (ICRA XVII@Syracuse, USA)                 ICRA=International Conferences on Representations of Algebras
 
