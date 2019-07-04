@@ -1,6 +1,6 @@
 # QIU Yu 邱宇
 
-Unlimited Blade Works | [Home](https://ubw-q.github.io/Qiu)  | [Background](https://ubw-q.github.io/Qiu/BG)  |  [Tex Art]() 
+Unlimited Blade Works | [Home](https://ubw-q.github.io/Qiu)  | [Background](https://ubw-q.github.io/Qiu.Yu/BG)  |  [Tex Art]() 
 :---: | :---: | :---: | :---:
 無限劍宇   | [主页](https://ubw-q.github.io/Qiu/CN) | [背景](https://ubw-q.github.io/Qiu/BJ)         |  [数·图]()
 
