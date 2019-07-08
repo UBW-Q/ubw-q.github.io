@@ -4,8 +4,6 @@
 
 # <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
-
-# 背景
 ## 教育
 
 **北京大学** 2004.9~2008.07 学士 （数学）.
