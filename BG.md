@@ -27,8 +27,10 @@ Research Assistant Professor in Chinese University of Hong Kong (CUHK), July 201
 
 
 
-##vAward
+## vAward
 
 ICRA Award 2016 (ICRA XVII@Syracuse, USA)                 ICRA=International Conferences on Representations of Algebras
 
 Citation: The ICRA Award 2016 is given to Yu Qiu who made important contributions in the representation theory of algebras on the topological structure of Bridgeland stability conditions, and a sequence of studies about Calabi-Yau and cluster categories.
+
+Committee：Osamu Iyama, Idun Reiten, Jan Schröer, Jie Xiao & Dan Zacharia。
