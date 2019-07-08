@@ -4,7 +4,7 @@
 
 ---
 
-# <span style="font-family:STXinwei;font-size:12;font-color:blue">邱宇 </span> <span style="font-family: sans-serif"> Qiu Yu</span>
+# <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> <span style="font-family: sans-serif"> Qiu Yu</span>
 
 ## 个人信息
 **职位:**  副教授 @ <br> 
