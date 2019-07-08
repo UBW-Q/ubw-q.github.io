@@ -1,8 +1,8 @@
 # QIU Yu 邱宇
 
-Unlimited Blade Works | [Home](https://ubw-q.github.io/Qiu)  | [Background](https://ubw-q.github.io/Qiu.Yu/BG)  |  [Tex Art]() 
-:---: | :---: | :---: | :---:
-無限劍宇   | [主页](https://ubw-q.github.io/Qiu/CN) | [背景](https://ubw-q.github.io/Qiu/BJ)         |  [数·图]()
+[Unlimited Blade Works](https://ubw-q.github.io/Qiu)  | [Background](https://ubw-q.github.io/Qiu.Yu/BG)  |  [Tex Art](https://ubw-q.github.io/Qiu.Yu/Art) 
+:---: | :---: | :---:
+[無限劍宇](https://ubw-q.github.io/Qy) | [背景](https://ubw-q.github.io/Qiu/BJ)         |  [数·图](https://ubw-q.github.io/Qiu.Yu/Art)
 
 ## Personal informaiton
 **Position:**  Associate Professor @ <br> **Yau Mathematical Sciences Center**  <br> **Tsinghua Univeristy**, Beijing, China.  <br>**Email** [yu.qiu@bath.edu]()  <br>   **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
