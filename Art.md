@@ -24,5 +24,5 @@ src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0021.png" wid
 <img 
 src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0005.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0008.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0010.png" width="270" />
 
-{:.center} <img 
-src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png" width="300"/> 
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png" width="300" align="center"/> 
