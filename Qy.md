@@ -4,7 +4,7 @@
 
 ---
 
-# <span style="font-family:STKaiti; font-size:4em;font-color=blue">邱宇 Qiu Yu</span>
+# <span style="font-family:STKaiti;font-size:4em;font-color:blue">邱宇 Qiu Yu</span>
 ## 个人信息
 **职位:**  副教授 @ <br> 
 **清华大学** **丘成桐数学科学中心**  <br>
