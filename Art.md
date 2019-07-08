@@ -2,7 +2,6 @@
 :---: | :---: | :---:
 [無限劍宇](https://ubw-q.github.io/Qiu.Yu/Qy) | [背景](https://ubw-q.github.io/Qiu.Yu/BJ)         |  [数·图](https://ubw-q.github.io/Qiu.Yu/Art)
 
----
 # <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
 
