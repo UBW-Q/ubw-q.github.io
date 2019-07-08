@@ -5,8 +5,8 @@
 # <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
 
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0003.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.png)
+![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0003.png=250x)
+![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.png=250x)
 ![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0027.png)
 ![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png)
 ![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0012.png)
