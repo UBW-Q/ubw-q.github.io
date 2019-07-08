@@ -5,7 +5,7 @@
 
 <span style="color:red">cardinals</span>
 <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-<span style="font-family:黑体; font-size:4em;">剑心</span>
+<span style="font-family:行楷; font-size:4em;">剑心</span>
 
 ---
 
