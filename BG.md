@@ -27,7 +27,7 @@ Research Assistant Professor in Chinese University of Hong Kong (CUHK), July 201
 
 
 
-## vAward
+## Award
 
 ICRA Award 2016 (ICRA XVII@Syracuse, USA)                 ICRA=International Conferences on Representations of Algebras
 
