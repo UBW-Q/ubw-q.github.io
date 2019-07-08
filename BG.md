@@ -4,7 +4,7 @@
 
 ---
 
-### Background
+# Background
 ## Higher Education
 
 B.Sc. Mathematics, **Peking University** (China), awarded July 2008.
