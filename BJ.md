@@ -28,6 +28,6 @@
 
 2016 ICRA奖 (美国 雪城)      ICRA=国际代数表示论会议
 
-引文：<span style="font-family:STXingkai;font-size:32"> 2016年度ICRA 奖授予邱宇，表彰其在表示论中Bridgeland 稳定性条件和Calabi-Yau 及丛范畴上一系列工作的重要贡献。</span> 
+引文：<span style="font-family:STXingkai;font-size:23px"> 2016年度ICRA 奖授予邱宇，表彰其在表示论中Bridgeland 稳定性条件和Calabi-Yau 及丛范畴上一系列工作的重要贡献。</span> 
 
 评奖组会员: Osamu Iyama, Idun Reiten, Jan Schröer, Jie Xiao 及 Dan Zacharia。
