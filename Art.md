@@ -4,24 +4,26 @@
 
 # <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0003.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0027.png" width="270" />
 
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0003.png=250x)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.png=250x)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0027.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0012.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0022.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0023.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0005.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0008.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0010.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0011.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0014.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0016.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0018.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0020.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0021.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0024.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0025.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0026.png)
-![1](https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0017.png)
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0012.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0022.png" width="270" />
+
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0005.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0008.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0010.png" width="270" />
+
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0023.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0011.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0014.png" width="270" />
+
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0003.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0027.png" width="270" />
+
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0016.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0018.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0020.png" width="270" />
+
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0021.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0024.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0025.png" width="270" />
+
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0026.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0017.png" width="270" />
