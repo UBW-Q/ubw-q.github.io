@@ -8,7 +8,8 @@
 **Position:**  Associate Professor @ <br> **Yau Mathematical Sciences Center**  <br> **Tsinghua Univeristy**, Beijing, China.  <br>**Email** [yu.qiu@bath.edu]()  <br>   **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
 
 ## Research interest: 
-> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics. In particular, I study things like Bridgeland's stability conditions, quivers with superpotentials, Calabi-Yau/Fukaya/cluster categories, braid groups, quadratic differentials, etc.
+<span style="font-family:Papyrus;">
+> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics. In particular, I study things like Bridgeland's stability conditions, quivers with superpotentials, Calabi-Yau/Fukaya/cluster categories, braid groups, quadratic differentials, etc.</span>
 
 ## Publications
 ### Preprints
