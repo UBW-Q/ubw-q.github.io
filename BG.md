@@ -4,8 +4,6 @@
 
 # <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
-
-# Background
 ## Higher Education
 
 B.Sc. Mathematics, **Peking University** (China), awarded July 2008.
