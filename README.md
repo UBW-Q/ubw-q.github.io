@@ -3,7 +3,8 @@
 [無限劍宇](https://ubw-q.github.io/Qiu.Yu/Qy) | [背景](https://ubw-q.github.io/Qiu.Yu/BJ)         |  [数·图](https://ubw-q.github.io/Qiu.Yu/Art)
 
 ---
-# Qiu Yu 邱宇
+# <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
+
 ## Personal informaiton
 **Position:**  Associate Professor @ <br> **Yau Mathematical Sciences Center**  <br> **Tsinghua Univeristy**, Beijing, China.  <br>**Email** [yu.qiu@bath.edu]()  <br>   **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
 
