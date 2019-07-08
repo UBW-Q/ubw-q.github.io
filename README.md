@@ -1,10 +1,10 @@
-[Unlimited Blade Works](https://ubw-q.github.io/Qiu.Yu)  | [Background](https://ubw-q.github.io/Qiu.Yu/BG)  |  [Tex Art](https://ubw-q.github.io/Qiu.Yu/Art) 
+[Unlimited Blade Works](https://ubw-q.github.io/Qiu.Yu)  | [Background](https://ubw-q.github.io/Qiu.Yu/BG)  |  [Tex Art](https://ubw-q.github.io/Qiu.Yu/Art) <img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0033.PNG" height="49px"/> 
 :---: | :---: | :---:
-[無限劍宇](https://ubw-q.github.io/Qiu.Yu/Qy) | [背景](https://ubw-q.github.io/Qiu.Yu/BJ)         |  [数·图](https://ubw-q.github.io/Qiu.Yu/Art)
+[無限劍宇](https://ubw-q.github.io/Qiu.Yu/Qy) | [背景](https://ubw-q.github.io/Qiu.Yu/BJ)         |  [数·图](https://ubw-q.github.io/Qiu.Yu/Art) <img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.PNG" height="49px"/> 
 
 # <span style="font-family: sans-serif"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
-<img 
-src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0033.PNG" height="49px"/> 
 ---
 
 ## Personal informaiton
