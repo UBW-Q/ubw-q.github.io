@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0005.png" wid
 
 <img 
 src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png" width="270" /> <img 
-src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0032.PNG" width="540" /> 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0032.PNG" width="450" /> 
 
 <img 
 src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0033.PNG" align="center"/> 
