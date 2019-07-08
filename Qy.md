@@ -2,6 +2,11 @@
 :---: | :---: | :---:
 [無限劍宇](https://ubw-q.github.io/Qiu.Yu/Qy) | [背景](https://ubw-q.github.io/Qiu.Yu/BJ)         |  [数·图](https://ubw-q.github.io/Qiu.Yu/Art)
 
+
+<span style="color:red">cardinals</span>
+<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+<span style="font-黑体; font-size:4em;">剑心</span>
+
 ---
 
 # 邱宇 Qiu Yu
