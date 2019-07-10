@@ -3,7 +3,7 @@
 [<span style="font-family:STKaiti;font-size:12;font-color:blue">無限劍宇</span>](https://ubw-q.github.io/Qiu.Yu/Qy) | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 背景 </span>](https://ubw-q.github.io/Qiu.Yu/BJ)         |  [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 数·图 </span>](https://ubw-q.github.io/Qiu.Yu/Art) 
 
 
-# <span style="font-family: sans-serif;font-size:30px"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:30px;font-color:blue">邱宇 </span> 
+# <span style="font-family: sans-serif;font-size:12"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
 
 ## Personal informaiton
