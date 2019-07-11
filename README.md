@@ -34,7 +34,7 @@
 9.	Decorated marked surfaces (Part B): Topological realizations, <br> **Math. Zeit.** 288 (2018) pp 39–53.
 10.	Contractible stability spaces and faithful braid group actions, with J. Woolf, <br> **Geom. & Topol.** 22 (2018) 3701–3760. ([arXiv:1407.5986](https://arxiv.org/abs/1407.5986))
 11.	DMS~II: Intersection numbers and dimensions of Homs, with Y.Zhou, <br> **Trans. Amer. Math. Soc.** 372(2019) 635–660. ([arXiv:1411.4003](https://arxiv.org/abs/1411.4003))
-12.	The braid group for a quiver with superpotential, <br> **Sci. China. Math.** 62(2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
+12.	The braid group for a quiver with superpotential, <br> **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
 13.	DMS~III: The derived category of a decorated marked surface, with A. Buan and Y. Zhou, <br> To appear in **Int. Math. Res. Notice** ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 14.	Topological structure of spaces of stability conditions and top. Fukaya type categories, _Proceeding of First Annual Meeting of ICCM._ .([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 15.	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> *Proceeding of the 51st Symposium on Ring Theory and Rep. Theory*, Okayama, Japan ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
