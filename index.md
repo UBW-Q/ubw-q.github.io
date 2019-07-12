@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 
 ## Personal informaiton
 **Position:**  Associate Professor @ <br> 
-**[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**  **Tsinghua Univeristy** <br>
+**[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**, **Tsinghua Univeristy** <br>
 **Email:** [yu.qiu@bath.edu]()  <br> 
 **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
 
