@@ -4,8 +4,8 @@
 
 # <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> <span style="font-family: sans-serif"> Qiu Yu</span>
 ---
-<img 
-src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-0407-4E1E-A392-922C7342EC64.jpeg" width="270" />
+<img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/2CB9A147-EF06-4FBF-94E4-EA232A5BE934.jpeg" width="135" /> <img 
+src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-0407-4E1E-A392-922C7342EC64.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## 个人信息
 **职位:**  副教授 @ <br> 
