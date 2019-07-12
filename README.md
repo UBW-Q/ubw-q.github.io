@@ -5,6 +5,8 @@
 
 # <span style="font-family: sans-serif;font-size:12"> Qiu Yu</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">邱宇 </span> 
 ---
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-0407-4E1E-A392-922C7342EC64.jpeg" width="270" />
 
 ## Personal informaiton
 **Position:**  Associate Professor @ <br> **Yau Mathematical Sciences Center**  <br> **Tsinghua Univeristy**, Beijing, China.  <br>**Email** [yu.qiu@bath.edu]()  <br>   **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
