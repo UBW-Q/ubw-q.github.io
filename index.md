@@ -16,9 +16,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 
 ## Publications
 ### Preprints
-22. q-Stability conditions via q-quadratic differentials for Calabi-Yau-X categories. with Akishi Ikeda, [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
-21. q-Stability conditions on Calabi-Yau-X  categories and twisted periods, with Akishi IKeda, [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
-20. Global dimension function, Gepner equations and q-stability conditions, [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
+22. $q$-Stability conditions via $q$-quadratic differentials for Calabi-Yau-X categories. with Akishi Ikeda, [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+21. $q$-Stability conditions on Calabi-Yau-$\mathbb{X}$  categories and twisted periods, with Akishi IKeda, [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
+20. Global dimension function, Gepner equations and $q$-stability conditions, [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 19. Cluster exchange groupoids and framed quadratic differentials, with Alastair King, [arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
 17. Finite presentations for spherical/braid twist groups from decorated marked surfaces, with Yu Zhou, [arXiv:1703.10053](https://arxiv.org/abs/1703.00053)
 16. Stability conditions and A2 quivers, with Tom Bridgeland and Tom Sutherland, [arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
