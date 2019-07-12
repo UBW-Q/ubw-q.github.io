@@ -9,14 +9,17 @@
 src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-0407-4E1E-A392-922C7342EC64.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## Personal informaiton
-**Position:**  Associate Professor @ <br> **[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**  <br> **Tsinghua Univeristy** <br>**Email** [yu.qiu@bath.edu]()  <br>   **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
+**Position:**  Associate Professor @ <br> 
+**[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**  **Tsinghua Univeristy** <br>
+**Email:** [yu.qiu@bath.edu]()  <br> 
+**Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
 
 ## Research interest: 
 <span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like Bridgeland's stability conditions on triangulated categories, quivers with superpotentials, Calabi-Yau/Fukaya categories, braid groups, cluster theory, quadratic differentials, etc.</span>
 
 ## Publications
 ### Preprints
-22. q-Stability conditions via $q$-quadratic differentials for Calabi-Yau-X categories. _with Akishi Ikeda_, <br> 
+22. q-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br> 
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 21. q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, <br>
 [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
@@ -24,7 +27,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 19. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
 [arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
-17. Finite presentations for spherical/braid twist groups from decorated marked surfaces, _with Yu Zhou_, <br>
+17. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
 [arXiv:1703.10053](https://arxiv.org/abs/1703.00053)
 16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
 [arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
