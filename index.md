@@ -16,13 +16,20 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 
 ## Publications
 ### Preprints
-22. q-Stability conditions via $q$-quadratic differentials for Calabi-Yau-X categories. _with Akishi Ikeda_, [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
-21. q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
-20. Global dimension function, Gepner equations and $q$-stability conditions, [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
-19. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, [arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
-17. Finite presentations for spherical/braid twist groups from decorated marked surfaces, _with Yu Zhou_, [arXiv:1703.10053](https://arxiv.org/abs/1703.00053)
-16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, [arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
-16.	Frobenius morphisms and stability conditions, _with W. Chang_, [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
+22. q-Stability conditions via $q$-quadratic differentials for Calabi-Yau-X categories. _with Akishi Ikeda_, <br> 
+[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+21. q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, <br>
+[arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
+20. Global dimension function, Gepner equations and $q$-stability conditions, <br>
+[arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
+19. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
+[arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
+17. Finite presentations for spherical/braid twist groups from decorated marked surfaces, _with Yu Zhou_, <br>
+[arXiv:1703.10053](https://arxiv.org/abs/1703.00053)
+16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
+[arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
+16.	Frobenius morphisms and stability conditions, _with W. Chang_, <br>
+[arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### Papers
 1.	On the focus order of planar polynomial differential equations, _with J. Yang_, <br> 
@@ -51,7 +58,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
 13.	DMS~III: The derived category of a decorated marked surface, _with A. Buan and Y. Zhou_, <br> 
 **Int. Math. Res. Notice**, to appear. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
-14.	Topological structure of spaces of stability conditions and top. Fukaya type categories, 
+14.	Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceeding of First Annual Meeting of **ICCM**_.  ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 15.	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, Okayama, Japan ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
