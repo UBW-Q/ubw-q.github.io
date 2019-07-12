@@ -7,6 +7,9 @@
 <img 
 src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0003.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0013.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0027.png" width="270" />
 
+<img 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0044.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0045.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0046.png" width="270" />
+
 <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0012.png" width="270" />  <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0022.png" width="270" /> <img src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0026.png" width="270" /> 
 
 
@@ -26,7 +29,7 @@ src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0005.png" wid
 
 <img 
 src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0030.png" width="270" /> <img 
-src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0032.PNG" width="450" /> 
+src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0043.PNG" width="270" /> 
 
 <img 
 src="https://raw.githubusercontent.com/UBW-Q/Qiu.Yu/master/Fig/IMG_0033.PNG" align="center"/> 
