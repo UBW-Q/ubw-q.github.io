@@ -2,7 +2,7 @@
 :---: | :---: | :---:
 [<span style="font-family:STKaiti;font-size:12;font-color:blue">無限劍宇</span>](https://ubw-q.github.io/Qy) | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 背景 </span>](https://ubw-q.github.io/BJ)         |  [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 数·图 </span>](https://ubw-q.github.io/Art) 
 
-# <span style="font-family:STKaiti;font-size:12"> Qiu Yu 邱宇 </span>
+<span style="font-family:STKaiti;font-size:12"> Qiu Yu 邱宇 </span>
 ---
 ## Higher Education
 
