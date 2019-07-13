@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 19. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
 [arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
 17. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
-[arXiv:1703.10053](https://arxiv.org/abs/1703.00053)
+[arXiv:1703.10053](https://arxiv.org/abs/1703.10053)
 16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
 [arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
 16.	Frobenius morphisms and stability conditions, _with W. Chang_, <br>
