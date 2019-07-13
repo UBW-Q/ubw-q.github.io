@@ -8,13 +8,12 @@
 src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-0407-4E1E-A392-922C7342EC64.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## 个人信息
-**职位:**  副教授 @ <br> 
-**清华大学** **丘成桐数学科学中心**  <br>
+**职位:**  副教授 @ **清华大学** **丘成桐数学科学中心**  <br>
 **电子邮件：** [yu.qiu@bath.edu]()  <br>   
 **地址:** 中国 北京 **清华大学** 静斋 303
 
 ## 研究兴趣: 
-代数表示论与几何拓扑。例如三角范畴（Calabi-Yau范畴、Fukaya范畴）上的稳定条件（空间），辫子群/映射类群，模空间，丛理论...等等.
+代数表示论与几何拓扑。例如三角范畴（Calabi-Yau范畴、Fukaya范畴）上的稳定条件，辫子群/映射类群，模空间，丛（cluster）理论...等等。动机来自于（同调）镜像理论等。
 
 ## 文章
 ### 预印本
@@ -29,7 +28,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 19. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
 [arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
 17. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
-[arXiv:1703.10053](https://arxiv.org/abs/1703.00053)
+[arXiv:1703.10053](https://arxiv.org/abs/1703.10053)
 16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
 [arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
 16.	Frobenius morphisms and stability conditions, _with W. Chang_, <br>
