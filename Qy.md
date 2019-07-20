@@ -17,8 +17,6 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-040
 
 ## 文章
 ### 预印本
-## Publications
-### Preprints
 22. $q$-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br>
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 21. $q$-Stability conditions on Calabi-Yau-$\mathbb{X}$  categories and twisted periods, _with Akishi IKeda_, <br>
