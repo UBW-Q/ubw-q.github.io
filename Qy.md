@@ -2,10 +2,11 @@
 :---: | :---: | :---: | :---:
 [<span style="font-family:STKaiti;font-size:12;font-color:blue">無限劍宇</span>](https://ubw-q.github.io/Qy) | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 背景 </span>](https://ubw-q.github.io/BJ)  | [研究](https://ubw-q.github.io/Rs)       |  [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 数·图 </span>](https://ubw-q.github.io/Art) 
 
+
 # <span style="font-family:STKaiti;font-size:12"> Qiu Yu 邱宇 </span> 
 ---
 <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/2CB9A147-EF06-4FBF-94E4-EA232A5BE934.jpeg" width="135" /> <img 
-src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/442C1530-0407-4E1E-A392-922C7342EC64.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
+src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Baltic%20Sea.jpg" width="155" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## 个人信息
 **职位:**  副教授 @ **清华大学** **丘成桐数学科学中心**  <br>
