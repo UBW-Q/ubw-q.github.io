@@ -71,8 +71,10 @@ _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, Okayama, 
 * Other links:
   * [YMSC](http://ymsc.tsinghua.edu.cn/cn)
   * [Qy@YMSC](http://ymsc.tsinghua.edu.cn/cn/content/show/170-128.html)
-  * [arXiv.RT](http://arxiv.org/list/math.RT/recent)
-  * [arXiv.GT](http://arxiv.org/list/math.GT/recent)
+  * [arXiv.RT](http://arxiv.org/list/math.RT/recent)   
+  [arXiv.GT](http://arxiv.org/list/math.GT/recent)
+  [arXiv.AG](http://arxiv.org/list/math.AG/recent)
+  [arXiv.QA](http://arxiv.org/list/math.QA/recent)
   * [MathSciNet](http://www.ams.org/mathscinet/)
  
  
