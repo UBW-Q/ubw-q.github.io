@@ -55,7 +55,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Baltic%20Sea
 **Math. Zeit.** 288 (2018)  39–53.
 10.	[Contractible stability spaces and faithful braid group actions](https://doi:10.2140/gt.2018.22.3701), _with J. Woolf_, <br> 
 **Geom. & Topol.** 22 (2018) 3701–3760. ([arXiv:1407.5986](https://arxiv.org/abs/1407.5986))
-11.	[DMS~II: Intersection numbers and dimensions of Homs](https://doi.org/10.1090/tran/7598), _with Y.Zhou_, <br> 
+11.	[DMS~II: Intersection numbers and dimensions of Homs](https://doi.org/10.1090/tran/7598), _with Y. Zhou_, <br> 
 **Trans. Amer. Math. Soc.** 372(2019) 635–660. ([arXiv:1411.4003](https://arxiv.org/abs/1411.4003))
 12.	[The braid group for a quiver with superpotential](https://doi.org/10.1007/s11425-018-9503-2), <br> 
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
