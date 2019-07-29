@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Baltic%20Sea
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### Papers
-1.	On the focus order of planar polynomial differential equations, _with J. Yang_, <br> 
+1.	[On the focus order of planar polynomial differential equations](doi.org/10.1016/j.jde.2009.02.005), _with J. Yang_, <br> 
 **J. Diff. Equations**, 246 (2009),  3361-3379. 
 2.	Ext-quivers of hearts of A-type and the orientation of associahedron, <br> 
 **J. Algebra**, 393 (2013),  60-70. ([arXiv:1202.6325](https://arxiv.org/abs/1202.6325))
