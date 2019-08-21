@@ -66,7 +66,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 14.	Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceeding of First Annual Meeting of **ICCM**_.  ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 15.	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
-_Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, Okayama, Japan ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
+_Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
 
