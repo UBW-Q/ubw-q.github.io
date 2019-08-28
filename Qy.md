@@ -59,7 +59,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 12.	The braid group for a quiver with superpotential, <br> 
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
 13.	DMS~III: The derived category of a decorated marked surface, _with A. Buan and Y. Zhou_, <br> 
-**Int. Math. Res. Notice**, to appear. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+**Int. Math. Res. Notices** to appear. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 
 ### 会议论文
 14.	Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
