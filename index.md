@@ -9,7 +9,7 @@
 src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" width="238" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## Personal informaiton
-**Position:**  Associate Professor @ <br> 
+**Position:**  [Associate Professor](http://ymsc.tsinghua.edu.cn/cn/content/show/170-128.html) @ <br> 
 **[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**, **Tsinghua Univeristy** <br>
 **Email:** [yu.qiu@bath.edu]()  <br> 
 **Address:** Jingzhai 303 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
@@ -72,7 +72,6 @@ _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134
 
 * Other links:
   * [YMSC](http://ymsc.tsinghua.edu.cn/cn)
-  * [Qy@YMSC](http://ymsc.tsinghua.edu.cn/cn/content/show/170-128.html)
   * [arXiv.RT](http://arxiv.org/list/math.RT/recent) // [GT](http://arxiv.org/list/math.GT/recent) // [AG](http://arxiv.org/list/math.AG/recent) 
   * [MathSciNet](http://www.ams.org/mathscinet/)
  
