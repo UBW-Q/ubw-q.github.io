@@ -25,13 +25,11 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
 20. Global dimension function, Gepner equations and $q$-stability conditions, <br>
 [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
-19. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
-[arXiv:1805.00030](https://arxiv.org/abs/1805.00030)
-17. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
+19. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
 [arXiv:1703.10053](https://arxiv.org/abs/1703.10053)
-16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
+18. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
 [arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
-16.	Frobenius morphisms and stability conditions, _with W. Chang_, <br>
+17.	Frobenius morphisms and stability conditions, _with W. Chang_, <br>
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### Papers
@@ -60,12 +58,15 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 12.	[The braid group for a quiver with superpotential](https://doi.org/10.1007/s11425-018-9503-2), <br> 
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
 13.	[DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
-**Int. Math. Res. Notices**. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+**Int. Math. Res. Notices** online first. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+14. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
+**Invent. Math.** to appear.
+([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 
 ### Proceedings
-14.	Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+15.	Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceeding of First Annual Meeting of **ICCM**_.  ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-15.	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+16.	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
