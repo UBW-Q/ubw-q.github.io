@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Personal informaiton
 **Position:**  [Associate Professor](http://ymsc.tsinghua.edu.cn/cn/content/show/170-128.html) @ <br> 
-**[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**, **Tsinghua Univeristy** <br>
+**[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**, **Tsinghua University** <br>
 **Email:** [yu.qiu@bath.edu]()  <br> 
 **Address:** Jingzhai 320 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
 
