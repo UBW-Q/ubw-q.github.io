@@ -61,8 +61,8 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
 13.	[DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
 **Int. Math. Res. Notices** online first. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
-14. Cluster exchange groupoids and framed quadratic differentials, _with Alastair King_, <br>
-**Invent. Math.** to appear.
+14. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
+**Invent. Math.** [Online first](http://link.springer.com/article/10.1007/s00222-019-00932-y).
 ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 15. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
 **J. Topology** to appear.
