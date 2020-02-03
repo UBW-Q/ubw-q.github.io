@@ -19,7 +19,10 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
-22 q-Stability conditions via $q$-quadratic differentials. _with Akishi Ikeda_, <br> 
+23 Contractibility of space of stability conditions on the projective plane via global dimension function. _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
+[arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
+
+22 q-Stability conditions via q-quadratic differentials. _with Akishi Ikeda_, <br> 
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 
 21 q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, <br>
