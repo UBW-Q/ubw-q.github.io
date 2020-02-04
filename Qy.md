@@ -30,10 +30,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 20 Global dimension function, Gepner equations and $q$-stability conditions, <br>
 [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 
-19 Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
-[arXiv:1406.2566](https://arxiv.org/abs/1406.2566)
-
-18	Frobenius morphisms and stability conditions _with W. Chang_, <br>
+19	Frobenius morphisms and stability conditions _with W. Chang_, <br>
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### 论文
@@ -69,12 +66,15 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 15. Finite presentations for spherical/braid twist groups, _with Yu Zhou_, <br>
 **J. Topology** to appear.
 ([arXiv:1703.10053](https://arxiv.org/abs/1703.10053))
+16. Stability conditions and A2 quivers, _with Tom Bridgeland and Tom Sutherland_, <br>
+**Adv. Math.** to appear.
+([arXiv:1406.2566](https://arxiv.org/abs/1406.2566))
 
 ### 会议文
-16 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+17 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceeding of First Annual Meeting of **ICCM**_.  ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-17	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+18	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### 常用链接
