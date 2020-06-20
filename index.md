@@ -88,6 +88,6 @@ _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134
   * [MathSciNet](http://www.ams.org/mathscinet/)
  
  
-(Last modified: July, 2019)
+(Last modified: July, 2020)
 
 
