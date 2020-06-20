@@ -19,6 +19,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
+24 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras. _with Akishi Ikeda and Yu Zhou_, <br> 
+[arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
+
 23 Contractibility of space of stability conditions on the projective plane via global dimension function. _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 [arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
 
