@@ -19,6 +19,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
+25 Contractible flow of stability conditions via global dimension function. 
+[arXiv:2008.00282](https://arxiv.org/abs/2008.00282)
+
 24 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras. _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
