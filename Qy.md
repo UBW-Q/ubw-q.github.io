@@ -72,7 +72,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 15. [Finite presentations for spherical/braid twist groups](https://doi.org/10.1112/topo.12135), _with Yu Zhou_, <br>
 **J. Topology** . 13 (2020) 501-538. ([arXiv:1703.10053](https://arxiv.org/abs/1703.10053))
 16. [Stability conditions and A2 quivers](https://doi.org/10.1016/j.aim.2020.107049), _with Tom Bridgeland and Tom Sutherland_, <br>
-**Adv. Math.** [Online version](https://doi.org/10.1016/j.aim.2020.107049).
+**Adv. Math.** 365 (2020), 107049.
 ([arXiv:1406.2566](https://arxiv.org/abs/1406.2566))
 
 ### 会议文
