@@ -58,7 +58,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Compos. Math.** 153 (2017),  1779-1819. ✉️([arXiv:1311.0010](https://arxiv.org/abs/1311.0010))
 9.	[Decorated marked surfaces (Part B): Topological realizations](https://doi.org/10.1007/s00209-017-1876-1), <br> 
 **Math. Zeit.** 288 (2018)  39–53. ✉️
-10.	[Contractible stability spaces and faithful braid group actions](https://projecteuclid.org/euclid.gt/1538186746), _with J. Woolf_, <br> 
+10.	[Contractible stability spaces and faithful braid group actions](https://projecteuclid.org/euclid.gt/1538186746), _with J. Woolf_✉️, <br> 
 **Geom. & Topol.** 22 (2018) 3701–3760. ✉️([arXiv:1407.5986](https://arxiv.org/abs/1407.5986))
 11.	[DMS~II: Intersection numbers and dimensions of Homs](https://doi.org/10.1090/tran/7598), _with Y. Zhou_✉️, <br> 
 **Trans. Amer. Math. Soc.** 372(2019) 635–660. ✉️([arXiv:1411.4003](https://arxiv.org/abs/1411.4003))
