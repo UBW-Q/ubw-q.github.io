@@ -9,7 +9,7 @@
 src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" width="238" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## 个人信息
-**职位:**  副教授 @ **清华大学** **丘成桐数学科学中心**  <br>
+**职位:**  教授 @ **清华大学** **丘成桐数学科学中心**  <br>
 **电子邮件：** [yu.qiu@bath.edu]()  <br>   
 **地址:** 中国 北京 **清华大学** 静斋 320
 
