@@ -9,7 +9,7 @@
 src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" width="238" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
 
 ## Personal informaiton
-**Position:**  [Associate Professor](http://ymsc.tsinghua.edu.cn/cn/content/show/170-128.html) @ <br> 
+**Position:**  [Professor](http://ymsc.tsinghua.edu.cn/cn/content/show/170-128.html) @ <br> 
 **[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/cn)**, **Tsinghua University** <br>
 **Email:** [yu.qiu@bath.edu]()  <br> 
 **Address:** Jingzhai 320 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
