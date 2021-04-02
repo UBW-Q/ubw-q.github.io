@@ -16,11 +16,6 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ## 研究兴趣: 
 代数表示论与几何拓扑。例如三角范畴（Calabi-Yau范畴、Fukaya范畴）上的稳定条件，辫子群/映射类群，模空间，丛（cluster）理论...等等。动机来自于（同调）镜像理论等。
 
-## 课件
- [2021 Penrose镶嵌 分析部分.pdf](https://github.com/UBW-Q/ubw-q.github.io/raw/master/Slide/2021-Penrose镶嵌-分析部分.pdf)
- 
- [2021 Penrose镶嵌 代数部分.pdf](https://github.com/UBW-Q/ubw-q.github.io/raw/master/Slide/2021-Penrose镶嵌-代数部分.pdf)
-
 ## 文章
 ### 预印本
 25 Contractible flow of stability conditions via global dimension function. <br>
