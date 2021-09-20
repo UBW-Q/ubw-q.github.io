@@ -64,16 +64,14 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Trans. Amer. Math. Soc.** 372(2019) 635–660. ([arXiv:1411.4003](https://arxiv.org/abs/1411.4003))
 12.	[The braid group for a quiver with superpotential](https://doi.org/10.1007/s11425-018-9503-2), <br> 
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
-13.	[DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
-**Int. Math. Res. Notices** 17(2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
-14. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
-**Invent. Math.** 220 (2020) 479–523. 
-([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
-15. [Finite presentations for spherical/braid twist groups](https://doi.org/10.1112/topo.12135), _with Yu Zhou_, <br>
+13.	[Stability conditions and A2 quivers](https://doi.org/10.1016/j.aim.2020.107049), _with Tom Bridgeland and Tom Sutherland_, <br>
+**Adv. Math.** 365 (2020), 107049. ([arXiv:1406.2566](https://arxiv.org/abs/1406.2566))
+14. [Finite presentations for spherical/braid twist groups](https://doi.org/10.1112/topo.12135), _with Yu Zhou_, <br>
 **J. Topology** . 13 (2020) 501-538. ([arXiv:1703.10053](https://arxiv.org/abs/1703.10053))
-16. [Stability conditions and A2 quivers](https://doi.org/10.1016/j.aim.2020.107049), _with Tom Bridgeland and Tom Sutherland_, <br>
-**Adv. Math.** 365 (2020), 107049. 
-([arXiv:1406.2566](https://arxiv.org/abs/1406.2566))
+15. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
+**Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
+16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
+**Int. Math. Res. Notices** 17(2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 
 ### 会议文
 17 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
