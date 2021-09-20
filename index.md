@@ -54,27 +54,25 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 6.	[C-sortable words as green mutation sequences](https://doi.org/10.1112/plms/pdv046), <br> 
 **Proc. Lond. Math. Soc.** 111 (2015),  1052-1070. ([arXiv:1205.0034](https://arxiv.org/abs/1205.0034))
 7.	[Decorated marked surfaces: Spherical twists versus braid twists](https://doi.org/10.1007/s00208-015-1339-0), <br> 
-**Math. Ann.** 365 (2016),  595-633.([arXiv:1407.0806](https://arxiv.org/abs/1407.0806)).
+**Math. Ann.** 365 (2016),  595-633. ([arXiv:1407.0806](https://arxiv.org/abs/1407.0806)).
 8.	[Cluster categories for marked surfaces: punctured case](https://doi.org/10.1112/S0010437X17007229), _with Y. Zhou_, <br> 
 **Compos. Math.** 153 (2017),  1779-1819. ([arXiv:1311.0010](https://arxiv.org/abs/1311.0010))
 9.	[Decorated marked surfaces (Part B): Topological realizations](https://doi.org/10.1007/s00209-017-1876-1), <br> 
 **Math. Zeit.** 288 (2018)  39–53.
-10.	[Contractible stability spaces and faithful braid group actions](https://projecteuclid.org/euclid.gt/1538186746), _with J. Woolf_, <br> 
+10.	[Contractible stability spaces and faithful braid group actions](https://projecteuclid.org/euclid.gt/1538186746), _with J. Woolf_, <br>
 **Geom. & Topol.** 22 (2018) 3701–3760. ([arXiv:1407.5986](https://arxiv.org/abs/1407.5986))
 11.	[DMS~II: Intersection numbers and dimensions of Homs](https://doi.org/10.1090/tran/7598), _with Y. Zhou_, <br> 
 **Trans. Amer. Math. Soc.** 372(2019) 635–660. ([arXiv:1411.4003](https://arxiv.org/abs/1411.4003))
 12.	[The braid group for a quiver with superpotential](https://doi.org/10.1007/s11425-018-9503-2), <br> 
 **Sci. China. Math.** 62 (2019) 1241–1256. ([arXiv:1712.09585](https://arxiv.org/abs/1712.09585))
-13.	[DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
-**Int. Math. Res. Notices** online first. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+13.	[Stability conditions and A2 quivers](https://doi.org/10.1016/j.aim.2020.107049), _with Tom Bridgeland and Tom Sutherland_, <br>
+**Adv. Math.** 365 (2020), 107049. ([arXiv:1406.2566](https://arxiv.org/abs/1406.2566))
 14. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
-**Invent. Math.** 220 (2020) 479–523.
-([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
+**Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 15. [Finite presentations for spherical/braid twist groups](https://doi.org/10.1112/topo.12135), _with Yu Zhou_, <br>
 **J. Topology** . 13 (2020) 501-538. ([arXiv:1703.10053](https://arxiv.org/abs/1703.10053))
-16. [Stability conditions and A2 quivers](https://doi.org/10.1016/j.aim.2020.107049), _with Tom Bridgeland and Tom Sutherland_, <br>
-**Adv. Math.** 365 (2020), 107049.
-([arXiv:1406.2566](https://arxiv.org/abs/1406.2566))
+16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
+**Int. Math. Res. Notices** 17(2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 
 ### Proceedings
 17 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
