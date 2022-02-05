@@ -18,6 +18,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+26 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+[arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
+
 25 Contractible flow of stability conditions via global dimension function. <br>
 [arXiv:2008.00282](https://arxiv.org/abs/2008.00282)
 
@@ -71,7 +74,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 15. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
 **Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
-**Int. Math. Res. Notices** 17(2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+**Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 
 ### 会议文
 17 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
