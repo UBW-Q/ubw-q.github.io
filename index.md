@@ -19,6 +19,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
+26 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+[arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
+
 25 Contractible flow of stability conditions via global dimension function. <br>
 [arXiv:2008.00282](https://arxiv.org/abs/2008.00282)
 
@@ -72,13 +75,13 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 15. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
 **Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
-**Int. Math. Res. Notices** 17(2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+**Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 
 ### Proceedings
 17 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
-_Proceeding of First Annual Meeting of **ICCM**_.  ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
+_Proceedings of the International Consortium of Chinese Mathematicians_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-18	Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+18 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
