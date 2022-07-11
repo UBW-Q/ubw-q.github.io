@@ -40,8 +40,6 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 20 Global dimension function, Gepner equations and $q$-stability conditions, <br>
 [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 
-19 Frobenius morphisms and stability conditions, _with W. Chang_, <br>
-[arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### Papers
 1.	[On the focus order of planar polynomial differential equations](https://doi.org/10.1016/j.jde.2009.02.005), _with J. Yang_, <br> 
@@ -76,12 +74,15 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
 **Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+17. Frobenius morphisms and stability conditions, _with W. Chang_, <br>
+**Publ. Res. Inst. Math.** to appear.
+[arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### Proceedings
-17 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+18 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the International Consortium of Chinese Mathematicians_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-18 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+19 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
