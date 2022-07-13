@@ -73,7 +73,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
 **Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 17. Frobenius morphisms and stability conditions, _with W. Chang_, <br>
-**Publ. Res. Inst. Math.** to appear.
+**Publ. Res. Inst. Math. Sci.** to appear.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 
 ### 会议文
