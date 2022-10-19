@@ -32,13 +32,10 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 24 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
-23 q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
-[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
-
-22 q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, <br>
+23 q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, <br>
 [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
 
-21 Global dimension function, Gepner equations and $q$-stability conditions, <br>
+22 Global dimension function, Gepner equations and $q$-stability conditions, <br>
 [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 
 
@@ -81,13 +78,15 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 18. Contractibility of space of stability conditions on the projective plane via global dimension function, _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** to appear.
 [arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
-
+19. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
+**Memoirs of Amer. Math. Soc.** to appear.
+[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 
 ### Proceedings
-19 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+20 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the International Consortium of Chinese Mathematicians_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-20 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+21 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
