@@ -74,8 +74,8 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 18. Contractibility of space of stability conditions on the projective plane via global dimension function, _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** to appear.
 [arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
-19. Global dimension function on stability conditions and Gepner equations, <br>
-**Math. Zeit.** to appear.
+19. [Global dimension function on stability conditions and Gepner equations](https://doi.org/10.1007/s00209-022-03170-w), <br>
+**Math. Zeit.** 303 (2023). No.11.
 [arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 20. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
