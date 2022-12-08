@@ -66,15 +66,14 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with A. Buan and Y. Zhou_, <br> 
 **Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
-17. Frobenius morphisms and stability conditions, _with W. Chang_, <br>
+17. [Global dimension function on stability conditions and Gepner equations](https://doi.org/10.1007/s00209-022-03170-w), <br>
+**Math. Zeit.** 303 (2023) No.11. ([arXiv:1807.00010](https://arxiv.org/abs/1807.00010))
+18. Frobenius morphisms and stability conditions, _with W. Chang_, <br>
 **Publ. Res. Inst. Math. Sci.** to appear.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
-18. Contractibility of space of stability conditions on the projective plane via global dimension function, _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
+19. Contractibility of space of stability conditions on the projective plane via global dimension function, _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** to appear.
 [arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
-19. Global dimension function on stability conditions and Gepner equations, <br>
-**Math. Zeit.** to appear.
-[arXiv:1807.00010](https://arxiv.org/abs/1807.00010)
 20. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
