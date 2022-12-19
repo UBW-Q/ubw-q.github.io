@@ -20,6 +20,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ## Publications
 ### Preprints
 
+28 Quadratic differentials as stability conditions: collapsing subsurfaces, _with Anna Barbieri, Martin Möller and Jeonghoon So, <br>
+[arxiv:2212.08433](https://arxiv.org/abs/2212.08433)
+
 27 Geometric model for module categories of Dynkin quivers via hearts of total stability conditions, _with Wen Chang and Xiaoting Zhang_, <br>
 [arxiv:2208.00073](https://arxiv.org/abs/2208.00073)
 
