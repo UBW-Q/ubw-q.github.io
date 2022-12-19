@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
-28 Quadratic differentials as stability conditions: collapsing subsurfaces, _with Anna Barbieri, Martin Möller and Jeonghoon So, <br>
+28 Quadratic differentials as stability conditions: collapsing subsurfaces, _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 [arxiv:2212.08433](https://arxiv.org/abs/2212.08433)
 
 27 Geometric model for module categories of Dynkin quivers via hearts of total stability conditions, _with Wen Chang and Xiaoting Zhang_, <br>
