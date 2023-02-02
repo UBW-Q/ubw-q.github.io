@@ -38,9 +38,6 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 24 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
-23 q-Stability conditions on Calabi-Yau-X  categories and twisted periods, _with Akishi IKeda_, <br>
-[arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
-
 ### Papers
 1.	[On the focus order of planar polynomial differential equations](https://doi.org/10.1016/j.jde.2009.02.005), _with J. Yang_, <br> 
 **J. Diff. Equations**, 246 (2009),  3361-3379. 
@@ -85,11 +82,14 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 20. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+21. q-Stability conditions on Calabi-Yau-X categories, _with Akishi IKeda_, <br>
+**Compos. Math.** to appear. 
+[arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
 
 ### Proceedings
-21. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+22. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-22. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+23. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
