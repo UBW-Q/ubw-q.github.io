@@ -79,12 +79,13 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 19. Contractibility of space of stability conditions on the projective plane via global dimension function, _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** to appear.
 [arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
-20. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
-**Memoirs of Amer. Math. Soc.** to appear.
-[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
-21. q-Stability conditions on Calabi-Yau-X categories, _with Akishi IKeda_, <br>
+20. q-Stability conditions on Calabi-Yau-X categories, _with Akishi IKeda_, <br>
 **Compos. Math.** to appear. 
 [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
+21. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
+**Memoirs of Amer. Math. Soc.** to appear.
+[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+
 
 ### Proceedings
 22. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
