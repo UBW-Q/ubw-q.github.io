@@ -18,6 +18,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+30 Perverse schobers, stability conditions and quadratic differentials, _with Merlin Christ and Fabian Haiden_, <br> 
+[arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
+
 29 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
