@@ -103,7 +103,5 @@ _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134
   * [arXiv.RT](http://arxiv.org/list/math.RT/recent) // [GT](http://arxiv.org/list/math.GT/recent) // [AG](http://arxiv.org/list/math.AG/recent) 
   * [MathSciNet](http://www.ams.org/mathscinet/)
  
- 
-(Last modified: July, 2020)
 
 
