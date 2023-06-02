@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Address:** Jingzhai 320 <br> **Tsinghua University** <br> Beijing 100084, China  <br>
 
 ## Research interest: 
-<span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like Bridgeland's stability conditions on triangulated categories, quivers with superpotentials, Calabi-Yau/Fukaya categories, braid groups, cluster theory, quadratic differentials, etc.</span>
+<span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like quivers (with potentials), Calabi-Yau/Fukaya categories, stability conditions, braid groups, cluster theory and  moduli spaces.</span>
 
 ## Publications
 ### Preprints
