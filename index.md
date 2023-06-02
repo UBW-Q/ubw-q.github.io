@@ -19,6 +19,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
+31 Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
+[arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063)
+
 30 Perverse schobers, stability conditions and quadratic differentials, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
@@ -83,7 +86,7 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 **Math. Res. Letter** to appear.
 [arXiv:2001.11984](https://arxiv.org/abs/2001.11984)
 20. q-Stability conditions on Calabi-Yau-X categories, _with Akishi IKeda_, <br>
-**Compos. Math.** to appear. 
+**Compos. Math.** 159 (2023), 1347--1386. 
 [arXiv:1807.00469](https://arxiv.org/abs/1807.00469)
 21. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
