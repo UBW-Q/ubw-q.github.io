@@ -77,7 +77,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 17. [Global dimension function on stability conditions and Gepner equations](https://doi.org/10.1007/s00209-022-03170-w), <br>
 **Math. Zeit.** 303 (2023) No.11. ([arXiv:1807.00010](https://arxiv.org/abs/1807.00010))
-18. q-Stability conditions on Calabi-Yau-X categories, _with Akishi IKeda_, <br>
+18. [q-Stability conditions on Calabi-Yau-X categories](https://doi.org/10.1112/S0010437X23007194), _with Akishi IKeda_, <br>
 **Compos. Math.** 159 (2023), 1347--1386. ([arXiv:1807.00469](https://arxiv.org/abs/1807.00469))
 19. Contractibility of space of stability conditions on the projective plane via global dimension function, _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** to appear.
