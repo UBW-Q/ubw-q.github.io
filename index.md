@@ -93,9 +93,9 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 
 
 ### Proceedings
-22 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+22. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-23 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+23. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
