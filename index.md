@@ -29,10 +29,13 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 大谷拓己 Otani Kamumi (2023-2026) <br>
 
 ## Long term Collaborators: 
-Alastair King, Bath, UK (since 2011)
-Zhou Yu (周宇), Beijing, China (since 2013)
-Akishi Ikeda, Johai, Japan (since 2018)
-Zhang Xiaoting, Beijing, China (since 2022)
+Alastair King, Bath, UK (since 2011) <br>
+周宇 Zhou Yu, Beijing, China (since 2013) <br>
+池田晓志 Akishi Ikeda, Johai, Japan (since 2018) <br>
+张笑婷 Zhang Xiaoting, Beijing, China (since 2022) <br>
+
+## More Collaborators: 
+杨家忠 Yang Jiazhong, Thomas Brüstle, Aslak Bakke Buan, 范佑维 Fan Yu-Wei, 李纯毅 Li Chunyi, 柳万民 Liu Wanmin, 常文 Chang Wen，Anna Barbieri, Martin Möller, Jeonghoon So, 章超 Zhang Cao, Merlin Christ, Fabian Haiden, 范俐 Fan Li.
 
 ## Publications
 ### Preprints
