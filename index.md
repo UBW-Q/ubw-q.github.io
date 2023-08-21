@@ -3,7 +3,7 @@
 [<span style="font-family:STKaiti;font-size:12;font-color:blue">無限劍宇</span>](https://ubw-q.github.io/Qy) | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 背景 </span>](https://ubw-q.github.io/BJ)  | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 研究 </span>](https://ubw-q.github.io/Rs)       |  [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 数·图 </span>](https://ubw-q.github.io/Art) 
 
 
-# <span style="font-family:STKaiti;font-size:12"> Qiu Yu 邱宇 </span> 
+# <span style="font-family:STKaiti;font-size:12"> 邱宇 Qiu Yu </span> 
 ---
 <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/2CB9A147-EF06-4FBF-94E4-EA232A5BE934.jpeg" width="135" /> <img 
 src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" width="238" /> <img src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Fig/FD57DCDA-7D56-4FB9-84AD-2887A443D480.jpeg" width="135" />
@@ -16,6 +16,23 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Research interest: 
 <span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like quivers (with potentials), Calabi-Yau/Fukaya categories, stability conditions, braid groups, cluster theory and  moduli spaces.</span>
+
+## Students:
+李子戌 Li Zixu (2020-, co-supervised by Zhou Yu) <br>
+吴东箭 Wu Dongjian (2021-)  <br>
+范俐 Fan Li (2022-) <br>
+卢穗麒 Lu Suiqi (2023-)  <br>
+
+## Postdocs: 
+王起 Wang Qi (2022-2025) <br>
+何平 He Ping (2023-2025) <br>
+大谷拓己 Otani Kamumi (2023-2026) <br>
+
+## Long term Collaborators: 
+Alastair King, Bath, UK (since 2011)
+Zhou Yu (周宇), Beijing, China (since 2013)
+Akishi Ikeda, Johai, Japan (since 2018)
+Zhang Xiaoting, Beijing, China (since 2022)
 
 ## Publications
 ### Preprints
