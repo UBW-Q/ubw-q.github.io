@@ -18,14 +18,14 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 <span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like quivers (with potentials), Calabi-Yau/Fukaya categories, stability conditions, braid groups, cluster theory and  moduli spaces.</span>
 
 ## Students:
-李子戌 Li Zixu (2019-, co-supervised by Zhou Yu) <br>
+李子戌 Li Zixu (2019-, co-sup. by Zhou Yu) <br>
 吴东箭 Wu Dongjian (2020-)  <br>
 范俐 Fan Li (2021-) <br>
 卢穗麒 Lu Suiqi (2022-)  <br>
 
 ## Postdocs: 
 王起 Wang Qi (2022-2025) <br>
-何平 He Ping (2023-2025) <br>
+何平 He Ping (2022-2025) <br>
 大谷拓己 Otani Kamumi (2023-2026) <br>
 
 ## Publications
