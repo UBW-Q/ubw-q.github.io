@@ -30,6 +30,12 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
+33 Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
+[aXiv:2310.02917](https://arxiv.org/abs/2310.02917)
+
+32 Cluster braid groups of Coxeter-Dynkin diagrams, _with Zhe Han and Ping He_, <br>
+[arXiv:2310.02871](https://arxiv.org/abs/2310.02871)
+
 31 Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
 [arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063)
 
@@ -43,16 +49,13 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 [arxiv:2212.08433](https://arxiv.org/abs/2212.08433)
 
-27 Geometric model for module categories of Dynkin quivers via hearts of total stability conditions, _with Wen Chang and Xiaoting Zhang_, <br>
-[arxiv:2208.00073](https://arxiv.org/abs/2208.00073)
-
-26 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+27 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
 [arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
 
-25 Contractible flow of stability conditions via global dimension function. <br>
+26 Contractible flow of stability conditions via global dimension function. <br>
 [arXiv:2008.00282](https://arxiv.org/abs/2008.00282)
 
-24 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+25 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### Papers
@@ -100,12 +103,14 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 21. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
+**J. Algebra**, to appear. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 
 
 ### Proceedings
-22. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+23. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-23. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+24. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### Useful Links
