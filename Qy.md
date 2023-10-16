@@ -92,7 +92,7 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 **Memoirs of Amer. Math. Soc.** to appear.
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
-**J. Algebra**, to appear. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
+**J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 
 ### 会议论文
 23. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
