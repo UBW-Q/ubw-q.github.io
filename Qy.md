@@ -33,17 +33,10 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 29 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-28 Quadratic differentials as stability conditions: collapsing subsurfaces, 
-_with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
-[arxiv:2212.08433](https://arxiv.org/abs/2212.08433)
-
-27 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+28 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
 [arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
 
-26 Contractible flow of stability conditions via global dimension function. <br>
-[arXiv:2008.00282](https://arxiv.org/abs/2008.00282)
-
-25 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+27 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### 论文
@@ -93,11 +86,16 @@ _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
+23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
+**J. reine angew. Math. (Crelles Journal)**, online first (2024). ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433z))
+24. Contractible flow of stability conditions via global dimension function. <br>
+**J. Diff. Geom.** to appear.
+([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
 
 ### 会议论文
-23. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+25. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-24. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+26. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### 常用链接
