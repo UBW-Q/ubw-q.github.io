@@ -18,6 +18,15 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+36 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
+[aXiv:2403.15190](https://arxiv.org/abs/2403.15190)
+
+35 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
+[aXiv:2403.10265](https://arxiv.org/abs/2403.10265)
+
+34 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
+[aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
+
 33 Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
 [aXiv:2310.02917](https://arxiv.org/abs/2310.02917)
 
