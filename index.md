@@ -30,7 +30,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
-37 On orbit categories with dg enhancement, _with Li Fan_ and Bernhard Keller, <br>
+37 On orbit categories with dg enhancement, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
 36 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
