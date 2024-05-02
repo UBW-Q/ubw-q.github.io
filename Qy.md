@@ -18,6 +18,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+37 On orbit categories with dg enhancement, _with Li Fan and Bernhard Keller_, <br>
+[arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
+
 36 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
 [aXiv:2403.15190](https://arxiv.org/abs/2403.15190)
 
@@ -96,7 +99,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
-**J. reine angew. Math. (Crelles Journal)**, online first (2024). ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
+**J. reine angew. Math. (Crelles Journal)**, 810 (2024), 49-95. ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
 24. Contractible flow of stability conditions via global dimension function. <br>
 **J. Diff. Geom.** to appear.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
