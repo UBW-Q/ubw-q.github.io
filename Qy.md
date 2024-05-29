@@ -33,22 +33,19 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 33 Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
 [aXiv:2310.02917](https://arxiv.org/abs/2310.02917)
 
-32 Cluster braid groups of Coxeter-Dynkin diagrams, _with Zhe Han and Ping He_, <br>
-[arXiv:2310.02871](https://arxiv.org/abs/2310.02871)
-
-31 Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
+32 Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
 [arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063)
 
-30 Perverse schobers, stability conditions and quadratic differentials, _with Merlin Christ and Fabian Haiden_, <br> 
+31 Perverse schobers, stability conditions and quadratic differentials, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
-29 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+20 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-28 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+29 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
 [arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
 
-27 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+28 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### 论文
@@ -103,11 +100,14 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 24. Contractible flow of stability conditions via global dimension function. <br>
 **J. Diff. Geom.** to appear.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
+25. Cluster braid groups of Coxeter-Dynkin diagrams, _with Zhe Han and Ping He_, <br>
+**J. Comb. Theory (A)** to appear.
+([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 
 ### 会议论文
-25. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+26. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-26. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+27. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### 常用链接
