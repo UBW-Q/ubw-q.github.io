@@ -30,6 +30,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Publications
 ### Preprints
+38 Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
+[arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154)
+
 37 On orbit categories with dg enhancement, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
@@ -48,7 +51,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 32 Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
 [arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063)
 
-31 Perverse schobers, stability conditions and quadratic differentials, _with Merlin Christ and Fabian Haiden_, <br> 
+31 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
 20 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
