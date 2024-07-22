@@ -116,7 +116,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **J. Diff. Geom.** to appear.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
 25. Cluster braid groups of Coxeter-Dynkin diagrams, _with Zhe Han and Ping He_, <br>
-**J. Comb. Theory (A)**, to appear.
+**J. Comb. Theory (A)**, 208 (2024), 105935.
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 
 ### Proceedings
