@@ -72,7 +72,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Adv. Math.** 285 (2015),  1106–1154. ([arXiv:1109.2924](https://arxiv.org/abs/1109.2924))
 4.	[Stability conditions and quantum dilogarithm identities for Dynkin quivers](https://doi.org/10.1016/j.aim.2014.10.014), <br> 
 **Adv. Math.** 269 (2015),  220-264. ([arXiv:1111.1010](https://arxiv.org/abs/1111.1010))
-5.	[Tagged maing class group: Auslander-Reiten translations](https://doi.org/10.1007/s00209-015-1405-z), _with Thomas Brüstle_, <br> 
+5.	[Tagged mapping class group: Auslander-Reiten translations](https://doi.org/10.1007/s00209-015-1405-z), _with Thomas Brüstle_, <br> 
 **Math. Zeit.** 279 (2015),  1103-1120. ([arXiv:1212.0007](https://arxiv.org/abs/1212.0007))
 6.	[C-sortable words as green mutation sequences](https://doi.org/10.1112/plms/pdv046), <br> 
 **Proc. Lond. Math. Soc.** 111 (2015),  1052-1070. ([arXiv:1205.0034](https://arxiv.org/abs/1205.0034))
@@ -115,7 +115,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 24. Contractible flow of stability conditions via global dimension function. <br>
 **J. Diff. Geom.** to appear.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
-25. Cluster braid groups of Coxeter-Dynkin diagrams, _with Zhe Han and Ping He_, <br>
+25. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 
