@@ -16,6 +16,23 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## Research interest: 
 <span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like quivers (with potentials), Calabi-Yau/Fukaya categories, stability conditions, braid groups, cluster theory and  moduli spaces.</span>
+* Simple tilting theory <br>
+In [3], we introduce the exchange graphs of (finite) hearts, which can be identified with exchange graphs of silting objets via simple-projective duality. They are skeleton of spaces of stability conditions. For applications, cf. [4,6,10].
+* Decorated Marked Surfaces (DMS) <br>
+In DMS series [7,9,11,16,14,15], we introduce DMS as a topological/geometric model for 3-Calabi-Yau categories associated to quivers with potential from triangulated marked surfaces (without punctures). 
+* Geometric model for cluster categories and derived categories of skew-gentle type <br>
+Similar to DMS series, we introduce geometric models for various categories, cf. [8,5,29,36], with various realization of Z_2-symmetry.
+* q-Deformation of stability conditions <br>
+In [18,21], we introduce a q-deformation of triangulated categories and the stability conditions on which. Motivation comes from the study of (almost) Frobenius structure on the spaces Stab of stability conditions, cf. [13]. <br>
+* Global dimension (glidm) function <br>
+As a byproduct of [18,21], we introduce gldim function (kind of piece-wise Morse) on Stab in [17] and define the gldim for a triangulated category. See further development [19,24].
+* Quadartic differentials as stability condtiions (FQuad=Stab) <br>
+Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,21,23,32,34,35].
+* Twist groups and cluster braid groups <br>
+We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [25]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
+* Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
+By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
+
 
 ## Students:
 李子戌 Li Zixu (2019-, co-sup. by Zhou Yu) <br>
