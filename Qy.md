@@ -36,19 +36,16 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 33 Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
 [aXiv:2310.02917](https://arxiv.org/abs/2310.02917)
 
-32 Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
-[arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063)
-
-31 Perverse schobers, stability conditions and quadratic differentials, _with Merlin Christ and Fabian Haiden_, <br> 
+32 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
-20 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+31 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-29 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+30 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
 [arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
 
-28 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+29 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### 论文
@@ -90,8 +87,8 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 **Compos. Math.** 159 (2023), 1347--1386. ([arXiv:1807.00469](https://arxiv.org/abs/1807.00469))
 19. [Contractibility of space of stability conditions on the projective plane via global dimension function](https://dx.doi.org/10.4310/MRL.2023.v30.n1.a3) _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** 30 (2023), 51–87. ([arXiv:2001.11984](https://arxiv.org/abs/2001.11984))
-20. Frobenius morphisms and stability conditions, _with Wen Chang_, <br>
-**Publ. Res. Inst. Math. Sci.** to appear.
+20. [Frobenius morphisms and stability conditions](https://doi.org/10.4171/PRIMS/60-2-1), _with Wen Chang_, <br>
+**Publ. Res. Inst. Math. Sci.** 60 (2024), 271–303.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 21. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
@@ -106,11 +103,13 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 25. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
+26. Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
+**Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
 
 ### 会议论文
-26. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+27. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-27. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+28. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ### 常用链接
