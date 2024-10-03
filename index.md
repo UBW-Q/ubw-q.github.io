@@ -116,8 +116,8 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 **Compos. Math.** 159 (2023), 1347--1386. ([arXiv:1807.00469](https://arxiv.org/abs/1807.00469))
 19. [Contractibility of space of stability conditions on the projective plane via global dimension function](https://dx.doi.org/10.4310/MRL.2023.v30.n1.a3) _with Yu-Wei Fan, Chunyi Li, and Wanmin Liu_, <br> 
 **Math. Res. Letter** 30 (2023), 51–87. ([arXiv:2001.11984](https://arxiv.org/abs/2001.11984))
-20. Frobenius morphisms and stability conditions, _with Wen Chang_, <br>
-**Publ. Res. Inst. Math. Sci.** to appear.
+20. [Frobenius morphisms and stability conditions](https://doi.org/10.4171/PRIMS/60-2-1), _with Wen Chang_, <br>
+**Publ. Res. Inst. Math. Sci.** 60 (2024), 271–303.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 21. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** to appear.
