@@ -47,6 +47,9 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 
 ## Publications
 ### Preprints
+39 Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
+[arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207)
+
 38 Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154)
 
