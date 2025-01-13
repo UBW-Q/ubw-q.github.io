@@ -144,7 +144,7 @@ _Proceedings of the **International Consortium of Chinese Mathematicians**_ (201
 29. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
-## Editoral Board:
+## Editoral Board
 [Journal of the Korean Mathematical Society](https://jkms.kms.or.kr/content/about/aimsnscope.html)
 
 ### Useful Links
