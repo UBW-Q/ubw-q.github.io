@@ -42,10 +42,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 31 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-30 Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
-[arxiv:2202.00092](https://arxiv.org/abs/2202.00092)
-
-29 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+30 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### 论文
@@ -105,12 +102,18 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 26. Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
+27. Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
+**Math. Zeit.** to appear.
+([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
 
 ### 会议论文
-27. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+28. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-28. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+29. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
+
+## 编辑
+[Journal of the Korean Mathematical Society](https://jkms.kms.or.kr/content/about/aimsnscope.html)
 
 ### 常用链接
 
