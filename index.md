@@ -21,13 +21,13 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 * Decorated Marked Surfaces (DMS) <br>
 In DMS series [7,9,11,16,14,15], we introduce DMS as a topological/geometric model for 3-Calabi-Yau categories associated to quivers with potential from triangulated marked surfaces (without punctures). 
 * Geometric model for skew-gentle type categories <br>
-Similar to DMS series, we introduce geometric models for various categories, cf. [8,5,29,36], with various realization of Z_2-symmetry.
+Similar to DMS series, we introduce geometric models for various categories, cf. [8,5,32,36], with various realization of Z_2-symmetry.
 * q-Deformation of stability conditions <br>
 In [18,21], we introduce a q-deformation of triangulated categories and the stability conditions on which. Motivation comes from the study of (almost) Frobenius structure on the spaces Stab of stability conditions, cf. [13]. <br>
 * Global dimension (glidm) function <br>
 As a byproduct of [18,21], we introduce gldim function (kind of piece-wise Morse) on Stab in [17] and define the gldim for a triangulated category. See further development [19,24].
 * Quadartic differentials as stability condtiions (FQuad=Stab) <br>
-Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,21,23,32,34,35].
+Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,21,23,28,34,35].
 * Twist groups and cluster braid groups <br>
 We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [25]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
 * Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
@@ -65,16 +65,13 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 34 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-33 Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
-[aXiv:2310.02917](https://arxiv.org/abs/2310.02917)
-
-32 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
+33 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
-31 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+32 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-30 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+31 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### Papers
@@ -137,11 +134,14 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 27. Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
 **Math. Zeit.** to appear.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
+28. Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
+**Selecta Math.** to appear.
+([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
 
 ### Proceedings
-28. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+29. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-29. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+30. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## Editoral Board
