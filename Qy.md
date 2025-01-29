@@ -18,6 +18,15 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+41 Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
+[arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
+
+40 From mutation to X-evolution: flows and foliations on cluster complexes, _with Liheng Tang_, <br> 
+[arxiv:2501.15756](https://arxiv.org/abs/arXiv:2501.15756)
+
+39 Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
+[arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207)
+
 38 Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154)
 
@@ -33,16 +42,13 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 34 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-33 Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
-[aXiv:2310.02917](https://arxiv.org/abs/2310.02917)
-
-32 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
+33 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
-31 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+32 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-30 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+31 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### 论文
@@ -93,7 +99,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
-**J. reine angew. Math. (Crelle's Journal)**, 810 (2024), 49-95. ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
+**J. reine angew. Math. (Crelle's Journal)** 810 (2024), 49-95. ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
 24. Contractible flow of stability conditions via global dimension function. <br>
 **J. Diff. Geom.** to appear.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
@@ -105,11 +111,14 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 27. Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
 **Math. Zeit.** to appear.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
+28. Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
+**Selecta Math.** to appear.
+([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
 
 ### 会议论文
-28. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+29. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-29. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+30. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## 编辑
