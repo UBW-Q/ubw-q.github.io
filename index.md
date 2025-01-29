@@ -47,6 +47,12 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 
 ## Publications
 ### Preprints
+41 Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
+[arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
+
+40 From mutation to X-evolution: flows and foliations on cluster complexes, _with Liheng Tang_, <br> 
+[arxiv:2501.15756](https://arxiv.org/abs/arXiv:2501.15756)
+
 39 Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
 [arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207)
 
