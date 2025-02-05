@@ -129,8 +129,8 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 **J. reine angew. Math. (Crelle's Journal)** 810 (2024), 49-95. ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
-24. Contractible flow of stability conditions via global dimension function. <br>
-**J. Diff. Geom.** to appear.
+24. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
+**J. Diff. Geom.** 129 (2025), 491-521.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
 25. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
