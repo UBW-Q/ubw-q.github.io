@@ -108,8 +108,8 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 26. Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
-27. Geometric classification of totally stable stability spaces, _with Xiaoting Zhang_, <br>
-**Math. Zeit.** to appear.
+27. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
+**Math. Zeit.** 309 (2025) No.58.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
 28. Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
 **Selecta Math.** to appear.
