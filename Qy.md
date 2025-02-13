@@ -11,7 +11,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ## 个人信息
 **职位:**  教授 @ **清华大学** **丘成桐数学科学中心**  <br>
 **电子邮件：** [yu.qiu@bath.edu]()  <br>   
-**地址:** 中国 北京 **清华大学** 静斋 320
+**地址:** 中国 北京 **清华大学** 双清综合楼C650
 
 ## 研究兴趣: 
 代数表示论与几何拓扑。例如三角范畴（Calabi-Yau范畴、Fukaya范畴）上的稳定条件，辫子群/映射类群，模空间，丛（cluster）理论...等等。动机来自于（同调）镜像理论等。
