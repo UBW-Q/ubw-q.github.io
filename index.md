@@ -59,7 +59,7 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 38 Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154)
 
-37 On orbit categories with dg enhancement, _with Li Fan and Bernhard Keller_, <br>
+37 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
 36 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
