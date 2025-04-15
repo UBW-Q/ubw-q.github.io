@@ -32,7 +32,8 @@ Following Bridgeland-Smith, we prove various such correspondences with various a
 We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [25]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
 * Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
 By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
-
+* X-evolution flow and X-foliations on cluster complexes <br>
+We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes but using representation theory of algebras. See [40].
 
 ## Students:
 李子戌 Li Zixu (2019-2024, co-sup. by Zhou Yu) <br>
