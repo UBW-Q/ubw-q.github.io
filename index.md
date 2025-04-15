@@ -122,8 +122,8 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 20. [Frobenius morphisms and stability conditions](https://doi.org/10.4171/PRIMS/60-2-1), _with Wen Chang_, <br>
 **Publ. Res. Inst. Math. Sci.** 60 (2024), 271–303.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
-21. q-Stability conditions via q-quadratic differentials, _with Akishi Ikeda_, <br> 
-**Memoirs of Amer. Math. Soc.** to appear.
+21. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
+**Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
 [arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
@@ -135,7 +135,7 @@ By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may
 25. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
-26. Topological model for q-deformed rational number and categorification, _with Li Fan_, <br>
+26. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
 27. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
 **Math. Zeit.** 309 (2025) No.58.
