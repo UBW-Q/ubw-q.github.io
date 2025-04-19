@@ -23,13 +23,13 @@ In DMS series [7,9,11,16,14,15], we introduce DMS as a topological/geometric mod
 * Geometric model for skew-gentle type categories <br>
 Similar to DMS series, we introduce geometric models for various categories, cf. [8,5,32,36], with various realization of Z_2-symmetry.
 * q-Deformation of stability conditions <br>
-In [18,21], we introduce a q-deformation of triangulated categories and the stability conditions on which. Motivation comes from the study of (almost) Frobenius structure on the spaces Stab of stability conditions, cf. [13]. <br>
+In [18,25], we introduce a q-deformation of triangulated categories and the stability conditions on which. Motivation comes from the study of (almost) Frobenius structure on the spaces Stab of stability conditions, cf. [13]. <br>
 * Global dimension (glidm) function <br>
-As a byproduct of [18,21], we introduce gldim function (kind of piece-wise Morse) on Stab in [17] and define the gldim for a triangulated category. See further development [19,24].
+As a byproduct of [18,25], we introduce gldim function (kind of piece-wise Morse) on Stab in [17] and define the gldim for a triangulated category. See further development [19,24].
 * Quadartic differentials as stability condtiions (FQuad=Stab) <br>
-Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,21,23,28,34,35].
+Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,23,25,28,34,35].
 * Twist groups and cluster braid groups <br>
-We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [25]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
+We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [21]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
 * Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
 By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
 * X-evolution flow and X-foliations on cluster complexes <br>
@@ -123,9 +123,8 @@ We introduce flows and foliations on cluster complexes, motivated by Hatcher's f
 20. [Frobenius morphisms and stability conditions](https://doi.org/10.4171/PRIMS/60-2-1), _with Wen Chang_, <br>
 **Publ. Res. Inst. Math. Sci.** 60 (2024), 271–303.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
-21. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
-**Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
-[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+21. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
+**J. Comb. Theory (A)**, 208 (2024), 105935.
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
@@ -133,8 +132,9 @@ We introduce flows and foliations on cluster complexes, motivated by Hatcher's f
 24. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
 **J. Diff. Geom.** 129 (2025), 491-521.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
-25. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
-**J. Comb. Theory (A)**, 208 (2024), 105935.
+25. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
+**Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
+[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 26. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
