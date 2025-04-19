@@ -93,9 +93,8 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 20. [Frobenius morphisms and stability conditions](https://doi.org/10.4171/PRIMS/60-2-1), _with Wen Chang_, <br>
 **Publ. Res. Inst. Math. Sci.** 60 (2024), 271–303.
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
-21. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
-**Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
-[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
+21. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
+**J. Comb. Theory (A)**, 208 (2024), 105935.
 22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
 23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
@@ -103,8 +102,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 24. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
 **J. Diff. Geom.** 129 (2025), 491-521.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
-25. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
-**J. Comb. Theory (A)**, 208 (2024), 105935.
+25. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
+**Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
+[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
 26. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
