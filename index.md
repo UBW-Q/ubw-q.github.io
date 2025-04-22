@@ -33,7 +33,7 @@ We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups
 * Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
 By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
 * X-evolution flow and X-foliations on cluster complexes <br>
-We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). We use purely representation theory of algebras techniques with application to understand the topology of cluster ceomplexes, cf. [40].
+We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). We use purely representation theory of algebras techniques with application to understand the topology of cluster complexes, cf. [40].
 
 ## Students:
 李子戌 Li Zixu (2019-2024, co-sup. by Zhou Yu) <br>
