@@ -33,7 +33,7 @@ We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups
 * Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
 By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
 * X-evolution flow and X-foliations on cluster complexes <br>
-We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). We use purely representation theory of algebras techniques with application to understand the topology of cluster complexes, cf. [40].
+We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). It turns out to be a countinous refinement/generalization of green mutation (on cluster exchange graphs) with application to understand the topology of cluster complexes, cf. [40].
 
 ## Students:
 李子戌 Li Zixu (2019-2024, co-sup. by Zhou Yu) <br>
@@ -141,7 +141,7 @@ We introduce flows and foliations on cluster complexes, motivated by Hatcher's f
 27. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
 **Math. Zeit.** 309 (2025) No.58.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
-28. Fusion-stable structures on triangulation categories, _with Xiaoting Zhang_, <br>
+28. Fusion-stable structures on triangulated categories, _with Xiaoting Zhang_, <br>
 **Selecta Math.** to appear.
 ([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
 
