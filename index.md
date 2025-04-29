@@ -122,7 +122,7 @@ We introduce flows and foliations on cluster complexes, motivated by Hatcher's f
 **Math. Res. Letter** 30 (2023), 51–87. ([arXiv:2001.11984](https://arxiv.org/abs/2001.11984))
 20. [Frobenius morphisms and stability conditions](https://doi.org/10.4171/PRIMS/60-2-1), _with Wen Chang_, <br>
 **Publ. Res. Inst. Math. Sci.** 60 (2024), 271–303.
-[arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
+([arXiv:1210.0243](https://arxiv.org/abs/1210.0243))
 21. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
