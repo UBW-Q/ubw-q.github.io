@@ -113,7 +113,7 @@ We introduce flows and foliations on cluster complexes, motivated by Hatcher's f
 15. [Cluster exchange groupoids and framed quadratic differentials](http://link.springer.com/article/10.1007/s00222-019-00932-y), _with Alastair King_, <br>
 **Invent. Math.** 220 (2020) 479–523. ([arXiv:1805.00030](https://arxiv.org/abs/1805.00030))
 16. [DMS~III: The derived category of a decorated marked surface](https://doi.org/10.1093/imrn/rnz180), _with Aslak Buan and Yu Zhou_, <br> 
-**Int. Math. Res. Notices** 17 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
+**Int. Math. Res. Notices** 2021 (2021) 12967-12992. ([arXiv:1804.00094](https://arxiv.org/abs/1804.00094))
 17. [Global dimension function on stability conditions and Gepner equations](https://doi.org/10.1007/s00209-022-03170-w), <br>
 **Math. Zeit.** 303 (2023) No.11. ([arXiv:1807.00010](https://arxiv.org/abs/1807.00010))
 18. [q-Stability conditions on Calabi-Yau-X categories](https://doi.org/10.1112/S0010437X23007194), _with Akishi IKeda_, <br>
@@ -125,23 +125,23 @@ We introduce flows and foliations on cluster complexes, motivated by Hatcher's f
 [arXiv:1210.0243](https://arxiv.org/abs/1210.0243)
 21. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
-22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
+([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
+23. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
-23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
+24. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 **J. reine angew. Math. (Crelle's Journal)** 810 (2024), 49-95. ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
-24. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
+25. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
 **J. Diff. Geom.** 129 (2025), 491-521.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
-25. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
+26. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
-[arXiv:1812.00010](https://arxiv.org/abs/1812.00010)
-([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
-26. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
+([arXiv:1812.00010](https://arxiv.org/abs/1812.00010))
+27. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
-27. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
+28. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
 **Math. Zeit.** 309 (2025) No.58.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
-28. Fusion-stable structures on triangulated categories, _with Xiaoting Zhang_, <br>
+29. Fusion-stable structures on triangulated categories, _with Xiaoting Zhang_, <br>
 **Selecta Math.** to appear.
 ([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
 
