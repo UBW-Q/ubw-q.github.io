@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ## Research interest: 
 <span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like quivers (with potentials), Calabi-Yau/Fukaya categories, stability conditions, braid groups, cluster theory and  moduli spaces.</span>
 
-* X-evolution flow and X-foliations on cluster complexes <br>
+* X-evolution flow on cluster complexes <br>
 We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). It turns out to be a countinous refinement/generalization of green mutation (on cluster exchange graphs) with application to understand the topology of cluster complexes, cf. [40].
 * Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
 By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
