@@ -111,8 +111,8 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 28. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
 **Math. Zeit.** 309 (2025) No.58.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
-29. Fusion-stable structures on triangulated categories, _with Xiaoting Zhang_, <br>
-**Selecta Math.** to appear.
+29. [Fusion-stable structures on triangulated categories](https://doi.org/10.1007/s00029-025-01037-6), _with Xiaoting Zhang_, <br>
+**Selecta Math.** 31 (2025) No.50.
 ([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
 
 ### 会议论文
