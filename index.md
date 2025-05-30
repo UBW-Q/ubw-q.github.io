@@ -139,7 +139,7 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 **Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
 ([arXiv:1812.00010](https://arxiv.org/abs/1812.00010))
 27. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
-**Rev. Mat. Iberoam.**, to appear. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
+**Rev. Mat. Iberoam.**, 41 (2025), 1337–1366. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
 28. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
 **Math. Zeit.** 309 (2025) No.58.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
