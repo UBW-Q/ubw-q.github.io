@@ -50,6 +50,9 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 
 ## Publications
 ### Preprints
+42 Decorated Marked Surfaces with vortices: Cluster braid group vs. braid twist group, _with Yu Zhou_, <br>
+[arxiv:2511.00438](https://arxiv.org/abs/2511.00438)
+
 41 Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
 [arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
 
