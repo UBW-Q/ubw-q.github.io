@@ -18,6 +18,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+42 Decorated Marked Surfaces with vortices: Cluster braid group vs. braid twist group, _with Yu Zhou_, <br>
+[arxiv:2511.00438](https://arxiv.org/abs/2511.00438)
+
 41 Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
 [arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
 
