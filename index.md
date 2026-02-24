@@ -62,28 +62,25 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 39 Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
 [arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207)
 
-38 Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
-[arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154)
-
-37 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
+38 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
-36 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
+37 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
 [aXiv:2403.15190](https://arxiv.org/abs/2403.15190)
 
-35 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
+36 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
 [aXiv:2403.10265](https://arxiv.org/abs/2403.10265)
 
-34 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
+35 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-33 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
+34 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
-32 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+33 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-31 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+32 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### Papers
@@ -131,29 +128,32 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 21. [Cluster braid groups of Coxeter-Dynkin diagrams](https://doi.org/10.1016/j.jcta.2024.105935), _with Zhe Han and Ping He_, <br>
 **J. Comb. Theory (A)**, 208 (2024), 105935.
 ([arXiv:2310.02871](https://arxiv.org/abs/2310.02871))
-23. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
+22. [Geometric model for module categories of Dynkin quivers via hearts of total stability conditions](https://doi.org/10.1016/j.jalgebra.2023.09.020), _with Wen Chang and Xiaoting Zhang_, <br>
 **J. Algebra** 638 (2024), 57-89. ([arxiv:2208.00073](https://arxiv.org/abs/2208.00073))
-24. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
+23. [Quadratic differentials as stability conditions: collapsing subsurfaces](https://doi.org/10.1515/crelle-2024-0005), _with Anna Barbieri, Martin Möller and Jeonghoon So_, <br>
 **J. reine angew. Math. (Crelle's Journal)** 810 (2024), 49-95. ([arxiv:2212.08433](https://arxiv.org/abs/2212.08433))
-25. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
+24. [Contractible flow of stability conditions via global dimension function](https://dx.doi.org/10.4310/jdg/1738163897). <br>
 **J. Diff. Geom.** 129 (2025), 491-521.
 ([arXiv:2008.00282](https://arxiv.org/abs/2008.00282))
-26. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
+25. [q-Stability conditions via q-quadratic differentials](https://doi.org/10.1090/memo/1557), _with Akishi Ikeda_, <br> 
 **Memoirs of Amer. Math. Soc.** 308 (2025), No. 1557.
 ([arXiv:1812.00010](https://arxiv.org/abs/1812.00010))
-27. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
+26. [Topological model for q-deformed rational number and categorification](https://doi.org/10.4171/RMI/1525), _with Li Fan_, <br>
 **Rev. Mat. Iberoam.**, 41 (2025), 1337–1366. ([arxiv:2306.00063](https://arxiv.org/abs/arXiv:2306.00063))
-28. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
+27. [Geometric classification of totally stable stability spaces](https://doi.org/10.1007/s00209-025-03678-x), _with Xiaoting Zhang_, <br>
 **Math. Zeit.** 309 (2025) No.58.
 ([arxiv:2202.00092](https://arxiv.org/abs/2202.00092))
-29. [Fusion-stable structures on triangulated categories](https://doi.org/10.1007/s00029-025-01037-6), _with Xiaoting Zhang_, <br>
+28. [Fusion-stable structures on triangulated categories](https://doi.org/10.1007/s00029-025-01037-6), _with Xiaoting Zhang_, <br>
 **Selecta Math.** 31 (2025) No.50.
 ([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
+29. Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
+**Selecta Math.**, to appear.
+([arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154))
 
 ### Proceedings
-29. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+30 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-30. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+31 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## Editoral Board
