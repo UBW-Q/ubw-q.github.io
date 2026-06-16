@@ -42,11 +42,14 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 范俐 Fan Li (2021- , co-sup. by Bernhard Keller) <br>
 卢穗麒 Lu Suiqi (2022-)  <br>
 汤立恒 Tang Liheng (2025-) <br>
+陈思遇 Chen Siyu (2026-) <br>
 
 ## Postdocs: 
 王起 Wang Qi (2022-2025) <br>
 何平 He Ping (2022-2025) <br>
 大谷拓己 Otani Kamumi (2023-2026) <br>
+孟成 Meng Cheng (2024-2027) <br>
+刘绵涛 Liu miantao (2026-2029) <br>
 
 ## Publications
 ### Preprints
@@ -59,28 +62,25 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 40 From mutation to X-evolution: flows and foliations on cluster complexes, _with Liheng Tang_, <br> 
 [arxiv:2501.15756](https://arxiv.org/abs/arXiv:2501.15756)
 
-39 Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
-[arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207)
-
-38 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
+39 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
-37 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
+38 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
 [aXiv:2403.15190](https://arxiv.org/abs/2403.15190)
 
-36 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
+37 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
 [aXiv:2403.10265](https://arxiv.org/abs/2403.10265)
 
-35 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
+36 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-34 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
+35 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
 [arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
 
-33 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+34 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-32 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+33 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### Papers
@@ -150,11 +150,15 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 **Selecta Math.**, to appear.
 ([arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154))
 
+30. Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
+**Doc. Math.**, to appear.
+([arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207))
+
 ### Proceedings
-30 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+31 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-31 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+32 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## Editoral Board
