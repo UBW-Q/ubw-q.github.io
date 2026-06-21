@@ -19,8 +19,6 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 * X-evolution flow on cluster complexes <br>
 We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). It turns out to be a countinous refinement/generalization of green mutation (on cluster exchange graphs) with application to understand the topology of cluster complexes, cf. [40].
-* Categorical/Geometric K(π,1)-conjecture for braid/twist groups <br>
-By FQuad=Stab, we aim to prove the contractibility of various moduli spaces, may be regarded as different version of K(π,1)-conjecture. For developments, cf. [10,7,15,35].
 * Twist groups and cluster braid groups <br>
 We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [21]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
 * Quadartic differentials as stability condtiions (FQuad=Stab) <br>
