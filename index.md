@@ -144,10 +144,9 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 28. [Fusion-stable structures on triangulated categories](https://doi.org/10.1007/s00029-025-01037-6), _with Xiaoting Zhang_, <br>
 **Selecta Math.** 31 (2025) No.50.
 ([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
-29. Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
-**Selecta Math.**, to appear.
+29. [Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras](https://doi.org/10.1007/s00029-026-01170-w), _with Merlin Christ and Fabian Haiden_, <br> 
+**Selecta Math.**, 32 (2026) No.62.
 ([arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154))
-
 30. Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
 **Doc. Math.**, to appear.
 ([arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207))
