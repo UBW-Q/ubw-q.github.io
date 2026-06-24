@@ -51,6 +51,9 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 
 ## Publications
 ### Preprints
+43 Non-asphericity of strata of genus-one differentials and stability spaces, _with Dawei Chen, Jingyin Huang and Fei Yu_, <br>
+[arxiv:2606.24135](https://arxiv.org/abs/2606.24135)
+
 42 Decorated Marked Surfaces with vortices: Cluster braid group vs. braid twist group, _with Yu Zhou_, <br>
 [arxiv:2511.00438](https://arxiv.org/abs/2511.00438)
 
