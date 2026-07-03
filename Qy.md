@@ -18,6 +18,9 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 
 ## 文章
 ### 预印本
+43 Non-asphericity of strata of genus-one differentials and stability spaces, _with Dawei Chen, Jingyin Huang and Fei Yu_, <br>
+[arxiv:2606.24135](https://arxiv.org/abs/2606.24135)
+
 42 Decorated Marked Surfaces with vortices: Cluster braid group vs. braid twist group, _with Yu Zhou_, <br>
 [arxiv:2511.00438](https://arxiv.org/abs/2511.00438)
 
@@ -27,31 +30,22 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 40 From mutation to X-evolution: flows and foliations on cluster complexes, _with Liheng Tang_, <br> 
 [arxiv:2501.15756](https://arxiv.org/abs/arXiv:2501.15756)
 
-39 Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
-[arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207)
-
-38 Perverse schobers, stability conditions and quadratic differentials II: relative graded Brauer graph algebras, _with Merlin Christ and Fabian Haiden_, <br> 
-[arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154)
-
-37 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
+39 Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
-36 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
+38 A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
 [aXiv:2403.15190](https://arxiv.org/abs/2403.15190)
 
-35 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
+37 Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
 [aXiv:2403.10265](https://arxiv.org/abs/2403.10265)
 
-34 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
+36 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-33 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
-[arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
-
-32 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+35 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-31 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+34 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### 论文
@@ -117,11 +111,17 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 29. [Fusion-stable structures on triangulated categories](https://doi.org/10.1007/s00029-025-01037-6), _with Xiaoting Zhang_, <br>
 **Selecta Math.** 31 (2025) No.50.
 ([aXiv:2310.02917](https://arxiv.org/abs/2310.02917))
+30. Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
+**Doc. Math.**, to appear.
+([arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207))
+31. Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
+**Compos. Math.**, to appear.
+([arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249))
 
 ### 会议论文
-29. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+32. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
-30. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+33. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## 编辑
