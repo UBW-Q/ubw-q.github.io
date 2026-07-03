@@ -17,12 +17,14 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 ## Research interest: 
 <span style="font-family:Papyrus;font-color:blue;font-size:23px;"> My research interests lie in the intersection between algebras, topology and geometry, with motivation coming from mathematical physics, e.g. (homological) mirror symmetry. In particular, I study things like quivers (with potentials), Calabi-Yau/Fukaya categories, stability conditions, braid groups, cluster theory and  moduli spaces.</span>
 
+* Non-asphericity of strata of genus-one differentials and stability spaces <br>
+We show that when the number of zeros or poles is at least four, every connected component of the strata of differentials in genus one with prescribed zero and pole orders is not an orbifold K(π,1). For quadratic differentials, this provides infinitely many counterexamples to a conjecture attributed to Kontsevich, as well as to a folklore conjecture concerning the contractibility of spaces of Bridgeland stability conditions, cf. [43].
 * X-evolution flow on cluster complexes <br>
 We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). It turns out to be a countinous refinement/generalization of green mutation (on cluster exchange graphs) with application to understand the topology of cluster complexes, cf. [40].
 * Twist groups and cluster braid groups <br>
-We introduce the braid twist group in [7] (cf. [14,35]) and cluster braid groups in [15] (cf. [21]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
+We introduce the braid twist group in [7] (cf. [14,42]) and cluster braid groups in [15] (cf. [21]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
 * Quadartic differentials as stability condtiions (FQuad=Stab) <br>
-Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,23,25,28,34,35].
+Following Bridgeland-Smith, we prove various such correspondences with various applications, cf. [15,23,25,28,30].
 * Global dimension (glidm) function <br>
 As a byproduct of [18,25], we introduce gldim function (kind of piece-wise Morse) on Stab in [17] and define the gldim for a triangulated category. See further development [19,24].
 * q-Deformation of stability conditions <br>
@@ -75,13 +77,10 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 36 Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-35 Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
-[arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249)
-
-34 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+35 Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-33 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+34 Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### Papers
@@ -153,12 +152,15 @@ In [3], we introduce the exchange graphs of (finite) hearts, which can be identi
 30. Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
 **Doc. Math.**, to appear.
 ([arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207))
+31. Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
+**Compos. Math.**, to appear.
+([arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249))
 
 ### Proceedings
-31 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+32 Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-32 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+33 Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## Editoral Board
