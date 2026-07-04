@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/UBW-Q/ubw-q.github.io/master/Paris.jpg" w
 * Non-asphericity of strata of genus-one differentials and stability spaces <br>
 We show that when the number of zeros or poles is at least four, every connected component of the strata of differentials in genus one with prescribed zero and pole orders is not an orbifold K(π,1). For quadratic differentials, this provides infinitely many counterexamples to a conjecture attributed to Kontsevich, as well as to a folklore conjecture concerning the contractibility of spaces of Bridgeland stability conditions, cf. [<a href="#preprint-43">43</a>].
 * X-evolution flow on cluster complexes <br>
-We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). It turns out to be a countinuous refinement/generalization of green mutation (on cluster exchange graphs) with application to understand the topology of cluster complexes, cf. [<a href="#preprint-40">40</a>].
+We introduce flows and foliations on cluster complexes, motivated by Hatcher's flow on arc complexes (but different). It turns out to be a countinuous refinement/generalization of green mutation (on cluster exchange graphs) with application to understand the topology of cluster complexes, cf. [<a href="#preprint-41">41</a>].
 * Twist groups and cluster braid groups <br>
 We introduce the braid twist group in [<a href="#paper-7">7</a>] (cf. [<a href="#paper-14">14</a>,<a href="#preprint-42">42</a>]) and cluster braid groups in [<a href="#paper-15">15</a>] (cf. [<a href="#paper-21">21</a>]) as generalizations of Artin braid groups. In various cases, they can be identifed with spherical twist groups (of Calabi-Yau categories).
 * Quadartic differentials as stability condtiions (FQuad=Stab) <br>
@@ -59,28 +59,25 @@ In [<a href="#paper-3">3</a>], we introduce the exchange graphs of (finite) hear
 <a id="preprint-42"></a>42. Decorated Marked Surfaces with vortices: Cluster braid group vs. braid twist group, _with Yu Zhou_, <br>
 [arxiv:2511.00438](https://arxiv.org/abs/2511.00438)
 
-<a id="preprint-41"></a>41. Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
-[arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
-
-<a id="preprint-40"></a>40. From mutation to X-evolution: flows and foliations on cluster complexes, _with Liheng Tang_, <br> 
+<a id="preprint-41"></a>41. From mutation to X-evolution: flows and foliations on cluster complexes, _with Liheng Tang_, <br> 
 [arxiv:2501.15756](https://arxiv.org/abs/arXiv:2501.15756)
 
-<a id="preprint-39"></a>39. Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
+<a id="preprint-40"></a>40. Dg enhanced orbit categories and applications, _with Li Fan and Bernhard Keller_, <br>
 [arxiv:2405.00093](https://arxiv.org/abs/arXiv:2405.00093)
 
-<a id="preprint-38"></a>38. A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
+<a id="preprint-39"></a>39. A geometric realization of Koszul duality for graded gentle algebras, _with Zixu Li and Yu Zhou_, <br> 
 [aXiv:2403.15190](https://arxiv.org/abs/2403.15190)
 
-<a id="preprint-37"></a>37. Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
+<a id="preprint-38"></a>38. Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation, <br> 
 [aXiv:2403.10265](https://arxiv.org/abs/2403.10265)
 
-<a id="preprint-36"></a>36. Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
+<a id="preprint-37"></a>37. Quadratic Differentials as Stability Conditions of Graded Skew-gentle Algebras, _with Suiqi Lu and Dongjian Wu_, <br> 
 [aXiv:2310.20709](https://arxiv.org/abs/2310.20709)
 
-<a id="preprint-35"></a>35. Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
+<a id="preprint-36"></a>36. Two geometric models for graded skew-gentle algebras, _with Chao Zhang and Yu Zhou_, <br>
 [arxiv:2212.10369](https://arxiv.org/abs/2212.10369)
 
-<a id="preprint-34"></a>34. Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
+<a id="preprint-35"></a>35. Graded decorated marked surfaces: Calabi-Yau-X categories of gentle algebras, _with Akishi Ikeda and Yu Zhou_, <br> 
 [arXiv:2006.00009](https://arxiv.org/abs/2006.00009)
 
 ### Papers
@@ -186,11 +183,15 @@ In [<a href="#paper-3">3</a>], we introduce the exchange graphs of (finite) hear
 **Compos. Math.**, to appear.
 ([arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249))
 
+<a id="preprint-32"></a>32. Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
+**Math. Proc. Camb. Philos. Soc.**, to appear.
+[arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
+
 ### Proceedings
-<a id="paper-32"></a>32. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
+<a id="paper-33"></a>33. Topological structure of spaces of stability conditions and top. Fukaya type categories, <br>
 _Proceedings of the **International Consortium of Chinese Mathematicians**_ (2017) 521–538, Int. Press, Boston, MA, 2020. ([arXiv:1806.00010](https://arxiv.org/abs/1806.00010))
 
-<a id="paper-33"></a>33. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
+<a id="paper-34"></a>34. Decorated Marked Surfaces: Calabi-Yau categories and related topics, <br> 
 _Proceeding of the **51st Symposium on Ring Theory and Rep. Theory**_, 129–134, _Symp. Ring Theory Represent. Theory Organ. Comm._, Shizuoka, 2019. ([arXiv:1812.00008](https://arxiv.org/abs/1812.00008))
 
 ## Editoral Board
