@@ -1,3 +1,10 @@
+<style>
+  body { background: black; color: white; }
+  a { color: #1e90ff; }
+  h1, h2, h3, h4, h5, h6, p, li, span, div, td, th { color: white; }
+  a:hover { color: #87cefa; text-decoration: underline; }
+</style>
+
 [Unlimited Blade World](https://ubw-q.github.io)  | [Background](https://ubw-q.github.io/BG)  | [Research](https://ubw-q.github.io/Rs) |  [Tex Art](https://ubw-q.github.io/Art)  
 :---: | :---: | :---: | :---:
 [<span style="font-family:STKaiti;font-size:12;font-color:blue">無限劍宇</span>](https://ubw-q.github.io/Qy) | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 背景 </span>](https://ubw-q.github.io/BJ)  | [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 研究 </span>](https://ubw-q.github.io/Rs)       |  [<span style="font-family:STKaiti;font-size:12;font-color:blue"> 数·图 </span>](https://ubw-q.github.io/Art) 
@@ -184,7 +191,7 @@ In [<a href="#paper-3">3</a>], we introduce the exchange graphs of (finite) hear
 ([arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249))
 
 <a id="preprint-32"></a>32. Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
-**Math. Proc. Camb. Philos. Soc.**, to appear.
+**Math. Proc. Camb. Phil. Soc.**, to appear.
 [arxiv:2501.16903](https://arxiv.org/abs/arXiv:2501.16903)
 
 ### Proceedings
