@@ -53,6 +53,9 @@ In [<a href="#paper-3">3</a>], we introduce the exchange graphs of (finite) hear
 
 ## Publications
 ### Preprints
+<a id="preprint-44"></a>44. Topological model for derived category associated to sphere with four binaries, _with Jianmin Chen, Li Fan and Yiting Zheng_, <br>
+[arxiv:2608.00163](https://arxiv.org/abs/2608.00163)
+
 <a id="preprint-43"></a>43. Non-asphericity of strata of genus-one differentials and stability spaces, _with Dawei Chen, Jingyin Huang and Fei Yu_, <br>
 [arxiv:2606.24135](https://arxiv.org/abs/2606.24135)
 
