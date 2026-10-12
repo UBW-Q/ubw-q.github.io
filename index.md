@@ -178,12 +178,12 @@ In [<a href="#paper-3">3</a>], we introduce the exchange graphs of (finite) hear
 **Selecta Math.**, 32 (2026) No.62.
 ([arxiv:2407.00154](https://arxiv.org/abs/arXiv:2407.00154))
 
-<a id="paper-30"></a>30. Verdier quotients of Calabi-Yau categories from quivers with potential,  _with Anna Barbieri_, <br>
-**Doc. Math.**, to appear.
+<a id="paper-30"></a>30. [Verdier quotients of Calabi-Yau categories from quivers with potential](https://doi.org/10.4171/dm/1091),  _with Anna Barbieri_, <br>
+**Doc. Math.**, online first.
 ([arxiv:2411.00207](https://arxiv.org/abs/arXiv:2411.00207))
 
-<a id="paper-31"></a>31. Perverse schobers, stability conditions and quadratic differentials I, _with Merlin Christ and Fabian Haiden_, <br> 
-**Compos. Math.**, to appear.
+<a id="paper-31"></a>31. [Perverse schobers, stability conditions and quadratic differentials I](https://doi.org/10.1017/S0010437X26103479), _with Merlin Christ and Fabian Haiden_, <br> 
+**Compos. Math.**, 162 (2026), 2100–2156.
 ([arxiv:2303.18249](https://arxiv.org/abs/arXiv:2303.18249))
 
 <a id="preprint-32"></a>32. Contractibility and total semi-stability conditions of Euclidean quivers, _with Xiaoting Zhang_, <br> 
